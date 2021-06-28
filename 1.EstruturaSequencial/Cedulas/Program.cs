@@ -13,8 +13,8 @@ namespace Cedulas
             Console.WriteLine("Digite o valor: ");
             valor = int.Parse(Console.ReadLine());
 
-            notaCem = valor / 100;
-            resto = valor % 100; 
+            notaCem = valor  / 100;
+            resto = valor  % 100; 
 
             notaCinquenta = resto / 50;
             resto = resto % 50;
