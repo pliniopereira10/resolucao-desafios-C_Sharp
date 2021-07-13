@@ -54,7 +54,7 @@ namespace Lanche
                     Console.WriteLine("Total: R$ " + valorTotal.ToString("F2", CultureInfo.InvariantCulture));
                     break;
             }
-            /* Console.WriteLine("Total: R$ " + valorTotal.ToString("F2", CultureInfo.InvariantCulture)); */
+            
         }
     }
 }
