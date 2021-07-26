@@ -8,6 +8,9 @@
 
  ##### Estrutura Sequencial
  * [Hello World!](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/HelloWorld)
+ * [Área do Círculo](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/AreaDoCirculo)
+  * [Soma](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/Soma)
+
 
  
 
