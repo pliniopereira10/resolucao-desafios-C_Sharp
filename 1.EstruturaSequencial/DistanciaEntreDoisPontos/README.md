@@ -16,5 +16,5 @@ O arquivo de entrada contém duas linhas de dados. A primeira linha contém dois
 
 Calcule e imprima o valor da distância segundo a fórmula fornecida, com 4 casas após o ponto decimal.
 
-[Resolução do problema](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/blob/main/1.EstruturaSequencial/DistanciaEntrDoisPontos/Program.cs) 
+[Resolução do problema](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/blob/main/1.EstruturaSequencial/DistanciaEntreDoisPontos/Program.cs) 
 
