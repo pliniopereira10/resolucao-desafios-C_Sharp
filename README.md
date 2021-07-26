@@ -15,9 +15,12 @@
   * [Produto](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/Produto)
   * [Diferenca](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/Diferenca)
   * [Salario](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/Salario)
-  * [CalculoSimples](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/CalculoSimples)
-  * [ConsumoCombustivel](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/ConsumoCombustivel)
-
+  * [Cálculo Simples](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/CalculoSimples)
+  * [Consumo Combustivel](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/ConsumoCombustivel)
+  * [Gasto de Combustível](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/GastoDeCombustivel)
+  * [Distância Entre Dois Pontosl](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/DistanciaEntreDoisPontos)
+  * [Média](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/Media)
+  
 
 
 
