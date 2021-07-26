@@ -6,7 +6,7 @@
 
 :rotating_light: [Os enunciados foram retirados de exercícios propostos pelo **Site URI ONLINE JUDGE**](https://www.urionlinejudge.com.br/judge/pt/problems/index/1) :rotating_light:
 
- #### Pratos de entrada
+ #### Pratos de entrada :man_cook::plate_with_cutlery::woman_cook:
 
  ##### Estrutura Sequencial
  * [Hello World!](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/HelloWorld)
@@ -42,7 +42,7 @@
 * [Idade Em Dias](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/IdadeEmDias)
 * [Notas E Moedas](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/NotasEMoedas)
 * [Tempo De Um Evento](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/TempoDeUmEvento)
-* [Conversão de Tempo](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/ConversaoDeTempo)
+* [Conversão de Tempo](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/ConversaoDeTempo) 
 
 
 
