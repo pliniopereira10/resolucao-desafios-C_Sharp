@@ -10,6 +10,7 @@ namespace SortSimples
             int valorUm, valorDois, valorTres;
             int primeiro, segundo, terceiro;
 
+            Console.WriteLine("Informe três valores:");
             valores = Console.ReadLine().Split(' ');
 
             valorUm = int.Parse(valores [0]);
