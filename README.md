@@ -38,6 +38,11 @@
 * [Área](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/Area)
 
 * [O Maior Valor](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/MaiorValor)
+* [Cédulas](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/Cedulas)
+* [Idade Em Dias](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/IdadeEmDias)
+* [Notas E Moedas](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/NotasEMoedas)
+* [Tempo De Um Evento](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/TempoDeUmEvento)
+
 
   
 
