@@ -4,15 +4,21 @@
 
 :rotating_light: [Os enunciados foram retirados de exercícios propostos pelo **Site URI ONLINE JUDGE**](https://www.urionlinejudge.com.br/judge/pt/problems/index/1) :rotating_light:
 
-Leia 4 valores inteiros A, B, C e D. A seguir, se B for maior do que C e se D for maior do que A, e a soma de C com D for maior que a soma de A e B e se C e D, ambos, forem positivos e se a variável A for par escrever a mensagem **"Valores aceitos"**, senão escrever **"Valores nao aceitos"**.
+Leia a hora inicial, minuto inicial, hora final e minuto final de um jogo. A seguir calcule a duração do jogo.
+
+*Obs:* O jogo tem duração mínima de um (1) minuto e duração máxima de 24 horas.
 
 ## Entrada
 
-Quatro números inteiros A, B, C e D.
+Quatro números inteiros representando a hora de início e fim do jogo.
 
 ## Saída
 
-Mostre a respectiva mensagem após a validação dos valores.
+Mostre a seguinte mensagem: “O JOGO DUROU XXX HORA(S) E YYY MINUTO(S)” .
 
-[Resolução do problema](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/blob/main/2.EstruturaCondicional/TesteSelecao1/Program.cs) 
+| Exemplo de Entrada | Exemplo de Saída                     |
+| ------------------ | ------------------------------------ |
+| 7 8 9 10           | O JOGO DUROU 2 HORA(S) E 2 MINUTO(S) |
+
+[Resolução do problema](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/blob/main/2.EstruturaCondicional/TempoJogoMinutos/Program.cs) 
 

@@ -53,7 +53,13 @@
  * [Tempo de Jogo](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/TempoDeJogo)
  * [Aumento de Salário](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/AumentoDeSalario)
  * [Intervalo](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/Intervalo)
- * 
+ * [Média 3](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/Media3)
+ * [Coordenadas de um Ponto](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/CoordDeUmPonto)
+ * [Tipos de Triângulos](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/TiposDeTriangulo)
+ * [Tempo de Jogo com Minutos](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/TempoJogoMinutos)
+ * [Animal](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/Animal)
+ * [Imposto de Renda](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/ImpostoDeRenda)
+ 
 
   
 
