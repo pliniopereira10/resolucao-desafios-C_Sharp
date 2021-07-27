@@ -4,8 +4,6 @@
 
  ### Resolução de códigos praticados em C#
 
-:rotating_light: [Os enunciados foram retirados de exercícios propostos pelo **Site URI ONLINE JUDGE**](https://www.urionlinejudge.com.br/judge/pt/problems/index/1) :rotating_light:
-
  #### Pratos de entrada :man_cook::plate_with_cutlery::woman_cook:
 
  ##### Estrutura Sequencial
@@ -44,7 +42,7 @@
 * [Tempo De Um Evento](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/TempoDeUmEvento)
 * [Conversão de Tempo](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/ConversaoDeTempo) 
 
- #### Pratos para acompanhamento :man_cook::plate_with_cutlery::woman_cook:
+ #### Pratos para acompanhamento I :man_cook::plate_with_cutlery::woman_cook:
 
  ##### Estrutura Condicional
  * [Teste de Seleção 1](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/TesteSelecao1)
@@ -59,9 +57,15 @@
  * [Tempo de Jogo com Minutos](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/TempoJogoMinutos)
  * [Animal](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/Animal)
  * [Imposto de Renda](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/ImpostoDeRenda)
- 
 
-  
+ #### Pratos para acompanhamento II :man_cook::plate_with_cutlery::woman_cook:
+
+ ##### Estrutura Repetitiva
+ * [Senha Fixa](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/SenhaFixa)
+ * [Quadrante](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Quadrante)
+ * [Validação de Nota](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/ValidacaoNota)
+
+
 
 
 
