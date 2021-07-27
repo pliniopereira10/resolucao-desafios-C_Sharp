@@ -48,6 +48,12 @@
 
  ##### Estrutura Condicional
  * [Teste de Seleção 1](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/TesteSelecao1)
+ * [Lanche](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/Lanche)
+ * [Múltiplos](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/Multiplos)
+ * [Tempo de Jogo](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/TempoDeJogo)
+ * [Aumento de Salário](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/AumentoDeSalario)
+ * [Intervalo](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/Intervalo)
+ * 
 
   
 
