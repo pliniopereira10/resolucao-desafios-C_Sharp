@@ -44,7 +44,10 @@
 * [Tempo De Um Evento](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/TempoDeUmEvento)
 * [Conversão de Tempo](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/ConversaoDeTempo) 
 
+ #### Pratos para acompanhamento :man_cook::plate_with_cutlery::woman_cook:
 
+ ##### Estrutura Condicional
+ * [Teste de Seleção 1](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/TesteSelecao1)
 
   
 
