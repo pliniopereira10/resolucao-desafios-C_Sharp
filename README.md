@@ -31,16 +31,21 @@
 
   * [Salário Com Bônus](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/SalarioComBonus)
 
-* [Volume Da Esfera](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/VolumeDaEsfera)
+  * [Volume Da Esfera](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/VolumeDaEsfera)
 
-* [Área](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/Area)
+  * [Área](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/Area)
 
-* [O Maior Valor](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/MaiorValor)
-* [Cédulas](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/Cedulas)
-* [Idade Em Dias](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/IdadeEmDias)
-* [Notas E Moedas](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/NotasEMoedas)
-* [Tempo De Um Evento](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/TempoDeUmEvento)
-* [Conversão de Tempo](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/ConversaoDeTempo) 
+  * [O Maior Valor](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/MaiorValor)
+
+  * [Cédulas](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/Cedulas)
+
+  * [Idade Em Dias](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/IdadeEmDias)
+
+  * [Notas E Moedas](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/NotasEMoedas)
+
+  * [Tempo De Um Evento](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/TempoDeUmEvento)
+
+  * [Conversão de Tempo](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/1.EstruturaSequencial/ConversaoDeTempo) 
 
  #### Pratos para acompanhamento I :man_cook::plate_with_cutlery::woman_cook:
 
@@ -57,6 +62,7 @@
  * [Tempo de Jogo com Minutos](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/TempoJogoMinutos)
  * [Animal](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/Animal)
  * [Imposto de Renda](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/ImpostoDeRenda)
+ * [DDD](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/DDD)
 
  #### Pratos para acompanhamento II :man_cook::plate_with_cutlery::woman_cook:
 
@@ -68,6 +74,7 @@
  * [Idades](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Idades)
  * [Soma de Pares Consecutivos](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/SomaParesConsecutivos)
  * [Várias Notas Com Validação](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/VariasNotasValidacao)
+ * [Grenais](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Grenais)
 
 
 
