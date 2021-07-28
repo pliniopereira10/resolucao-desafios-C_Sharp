@@ -64,6 +64,10 @@
  * [Senha Fixa](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/SenhaFixa)
  * [Quadrante](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Quadrante)
  * [Validação de Nota](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/ValidacaoNota)
+ * [Tipo de Combustivel](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/TipoCombustivel)
+ * [Idades](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Idades)
+ * [Soma de Pares Consecutivos](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/SomaParesConsecutivos)
+ * [Várias Notas Com Validação](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/VáriasNotasValidacao)
 
 
 
