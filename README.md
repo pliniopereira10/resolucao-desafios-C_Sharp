@@ -63,6 +63,7 @@
  * [Animal](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/Animal)
  * [Imposto de Renda](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/ImpostoDeRenda)
  * [DDD](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/DDD)
+ * [Mês](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/2.EstruturaCondicional/Mes)
 
  #### Pratos para acompanhamento II :man_cook::plate_with_cutlery::woman_cook:
 
@@ -75,6 +76,7 @@
  * [Soma de Pares Consecutivos](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/SomaParesConsecutivos)
  * [Várias Notas Com Validação](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/VariasNotasValidacao)
  * [Grenais](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Grenais)
+ * [Numeros Ímpares](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/NumerosImpares)
 
 
 
