@@ -77,6 +77,9 @@
  * [Várias Notas Com Validação](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/VariasNotasValidacao)
  * [Grenais](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Grenais)
  * [Numeros Ímpares](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/NumerosImpares)
+ * [Numeros Positivos](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/NumerosPositivos)
+ * [Médias Ponderadas](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/MediaPonderada)
+ * [Experiências](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Experiencias)
 
 
 
