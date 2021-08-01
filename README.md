@@ -81,6 +81,8 @@
  * [Médias Ponderadas](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/MediaPonderada)
  * [Experiências](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Experiencias)
  * [Sequência Numérica](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/SequenciaIJ2)
+ * [Dividindo X por Y](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/DividindoXPorY)
+ * [Múltiplos de 13](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Multiplo13)
 
 
 
