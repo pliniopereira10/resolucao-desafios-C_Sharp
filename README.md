@@ -84,6 +84,7 @@
  * [Dividindo X por Y](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/DividindoXPorY)
  * [Múltiplos de 13](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Multiplo13)
  * [PUM](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Pum)
+ * [Fibonacci Fácil](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Fibonacci)
 
 
 
