@@ -74,6 +74,7 @@
  * [Tipo de Combustivel](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/TipoCombustivel)
  * [Idades](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Idades)
  * [Soma de Pares Consecutivos](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/SomaParesConsecutivos)
+ * [Somando Numeros Ímpares](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/SomaImparesConsecutivos)
  * [Várias Notas Com Validação](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/VariasNotasValidacao)
  * [Grenais](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Grenais)
  * [Numeros Ímpares](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/NumerosImpares)
@@ -85,6 +86,8 @@
  * [Múltiplos de 13](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Multiplo13)
  * [PUM](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Pum)
  * [Fibonacci Fácil](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Fibonacci)
+ * [Fatorial](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/Fatorial)
+ * [Ultrapassando Z](https://github.com/pliniopereira10/resolucao-desafios-C_Sharp/tree/main/3.EstruturaRepetitiva/UltrapassandoZ)
 
 
 
